@@ -1,3 +1,3 @@
-# gandonio
+# Game Programmer simulator
 
-Developed with Unreal Engine 5
+My first project ^)
